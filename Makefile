@@ -1,2 +1,2 @@
-instal:
+install:
 	poetry install
