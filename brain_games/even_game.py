@@ -18,10 +18,9 @@ def game():
             print("Correct!")
         else:
             sys.exit(
-                  "'{}' is wrong answer ;(. Correct answer was '{}'.\nLet's try again, {}!"
+                  "'{}' is wrong answer ;(. Correct answer was '{}'.\n"
+                  "Let's try again, {}!"
                   .format(user_answer, correct_answer, name)
                   )
 
     print("Congratulations, {}!" .format(name))
-
-
