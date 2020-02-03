@@ -1,16 +1,18 @@
 from brain_games.scripts.brain_games import greeting
-from brain_games.cli import welcome_user, question, rules_games, check_answer, list_of_numbers
+from brain_games.cli import (
+    welcome_user, question, rules_games, check_answer
+                            )
 import random
 
 
 def game():
     greeting()
     print(rules_games('calc'))
-    name = welcome_user()
-    numbers = list_of_numbers(6)
 
+    name = welcome_user()
     count = 0
     signs = ['+', '-', '*']
+
     while count < 3:
         number_one = random.randint(1, 99)
         number_two = random.randint(1, 99)

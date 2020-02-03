@@ -1,5 +1,7 @@
 from brain_games.scripts.brain_games import greeting
-from brain_games.cli import welcome_user, question, rules_games, check_answer, gcd
+from brain_games.cli import (
+    welcome_user, question, rules_games, check_answer, gcd
+                            )
 import random
 
 
