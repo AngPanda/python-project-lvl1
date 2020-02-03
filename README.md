@@ -9,3 +9,7 @@ Install and run brain-even
 Run brain-calc
 
 <a href="https://asciinema.org/a/wlRHMbPJdVU6TvN6nNKlhWfFA" target="_blank"><img src="https://asciinema.org/a/wlRHMbPJdVU6TvN6nNKlhWfFA.svg" /></a>
+
+Run brain-gcd
+
+<a href="https://asciinema.org/a/hAtM6KMvSsNNLOJQ6eCeJjCpg" target="_blank"><img src="https://asciinema.org/a/hAtM6KMvSsNNLOJQ6eCeJjCpg.svg" /></a>
