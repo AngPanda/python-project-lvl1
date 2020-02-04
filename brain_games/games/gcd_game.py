@@ -1,21 +1,21 @@
-from brain_games.scripts.brain_games import greeting
-from brain_games.cli import (
-    welcome_user, question, rules_games, check_answer, gcd
-                            )
-import random
+from random import randint
 
 
-def game():
-    greeting()
-    print(rules_games('gcd'))
-    count = 0
-    name = welcome_user()
+description = 'Find the greatest common divisor of given numbers.'
 
-    while count < 3:
-        num_one = random.randint(1, 99)
-        num_two = random.randint(1, 99)
-        answer = gcd(num_one, num_two)
-        user_answer = int(question('{} {}' .format(num_one, num_two)))
-        count = check_answer(user_answer, answer, name, count)
 
-    print("Congratulations, {}!" .format(name))
+def game_round():
+    num_one = randint(1, 99)
+    num_two = randint(1, 99)
+    answer = str(gcd(num_one, num_two))
+    question = f"{num_one} {num_two}"
+    return (question, answer)
+
+
+def gcd(num_one, num_two):
+    while num_one != 0 and num_two != 0:
+        if num_one > num_two:
+            num_one = num_one % num_two
+        else:
+            num_two = num_two % num_one
+    return num_one + num_two
