@@ -13,3 +13,7 @@ Run brain-calc
 Run brain-gcd
 
 <a href="https://asciinema.org/a/hAtM6KMvSsNNLOJQ6eCeJjCpg" target="_blank"><img src="https://asciinema.org/a/hAtM6KMvSsNNLOJQ6eCeJjCpg.svg" /></a>
+
+Run brain-progression
+
+<a href="https://asciinema.org/a/tm7DCJP3WfLdCuIZ3y63zS29k" target="_blank"><img src="https://asciinema.org/a/tm7DCJP3WfLdCuIZ3y63zS29k.svg" /></a>
