@@ -17,3 +17,7 @@ Run brain-gcd
 Run brain-progression
 
 <a href="https://asciinema.org/a/tm7DCJP3WfLdCuIZ3y63zS29k" target="_blank"><img src="https://asciinema.org/a/tm7DCJP3WfLdCuIZ3y63zS29k.svg" /></a>
+
+Run brain-prime
+
+<a href="https://asciinema.org/a/hrcb2n0Rl3glLxgpElwnh7zdK" target="_blank"><img src="https://asciinema.org/a/hrcb2n0Rl3glLxgpElwnh7zdK.svg" /></a>
