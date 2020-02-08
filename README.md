@@ -4,7 +4,7 @@
 
 Install and run brain-even
 
-<a href="https://asciinema.org/a/oeEPJjri9X6L57KQrx7nfV9LR" target="_blank"><img src="https://asciinema.org/a/oeEPJjri9X6L57KQrx7nfV9LR.svg" /></a>
+<a href="https://asciinema.org/a/fjeMmKT7Pu8vkwNFm3RFCoYD4" target="_blank"><img src="https://asciinema.org/a/fjeMmKT7Pu8vkwNFm3RFCoYD4.svg" /></a>
 
 Run brain-calc
 
