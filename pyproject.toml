@@ -9,6 +9,11 @@ packages = [
 
 repository = 'https://github.com/AngPanda/python-project-lvl1'
 
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console"
+]
+
 [tool.poetry.dependencies]
 python = "^3.6"
 prompt = "^0.4.1"
