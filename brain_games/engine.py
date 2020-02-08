@@ -15,7 +15,7 @@ def greeting(description=None):
 
 def run(game):
     name = greeting(game.DESCRIPTION)
-    for i in range(attempts):
+    for i in range(ATTEMPTS):
         question, answer = game.game_round()
         user_answer = ask(question)
         if answer == user_answer:
