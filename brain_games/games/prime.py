@@ -20,3 +20,6 @@ def is_prime(number):
         else:
             devider += 1
     return 'yes'
+
+a = is_prime(3)
+print(a)

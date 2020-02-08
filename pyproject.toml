@@ -1,11 +1,14 @@
 [tool.poetry]
 name = "AngPanda_brain_games"
-version = "0.6.3"
-description = ""
-authors = ["None"]
+version = "0.7.0"
+description = "Education project"
+authors = ["Nikolay Nikonov <qnickp@gmail.com>"]
 packages = [
   { include = "brain_games" },
 ]
+
+repository = 'https://github.com/AngPanda/python-project-lvl1'
+
 [tool.poetry.dependencies]
 python = "^3.6"
 prompt = "^0.4.1"
