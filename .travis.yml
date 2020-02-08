@@ -5,8 +5,9 @@ install: make
 
 before_install:
   - pip install poetry
+
 install: 
-  - make configure
+  - make install
 
 script:
-  - make check 
+  - make lint 
