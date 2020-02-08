@@ -1,7 +1,7 @@
 from random import randint
 
 
-description = "What number is missing \033[1min\033[0m the progression?"
+DESCRIPTION = "What number is missing \033[1min\033[0m the progression?"
 
 
 def game_round():

@@ -1,7 +1,7 @@
 from random import randint, choice
 from operator import add, sub, mul
 
-description = 'What is the result of the expression?'
+DESCRIPTION = 'What is the result of the expression?'
 
 
 def game_round():

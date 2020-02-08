@@ -1,7 +1,7 @@
 from random import randint
 
 
-description = 'Answer "yes" if number even otherwise answer "no".'
+DESCRIPTION = 'Answer "yes" if number even otherwise answer "no".'
 
 
 def game_round():

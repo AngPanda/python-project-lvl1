@@ -1,7 +1,7 @@
 import prompt
 import sys
 
-attempts = 3
+ATTEMPTS = 3
 
 
 def greeting(description=None):
@@ -14,7 +14,7 @@ def greeting(description=None):
 
 
 def run(game):
-    name = greeting(game.description)
+    name = greeting(game.DESCRIPTION)
     for i in range(attempts):
         question, answer = game.game_round()
         user_answer = ask(question)
