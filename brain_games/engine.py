@@ -1,5 +1,5 @@
 import prompt
-import sys
+
 
 ATTEMPTS = 3
 
@@ -18,14 +18,15 @@ def run(game):
     for i in range(ATTEMPTS):
         question, answer = game.game_round()
         user_answer = ask(question)
-        if answer == user_answer:
-            print("Correct!")
+        if answer != user_answer:
+            break
         else:
-            sys.exit(
-                    f"{user_answer} is wrong answer ;(. Correct answer was {answer}.\
-                    \nLet's try again, {name}!")
+            print("Correct!")
+    else:
+        print(f'Congratulations, {name}!')
 
-    print(f'Congratulations, {name}!')
+    print(f"{user_answer} is wrong answer ;(. Correct answer was {answer}.\
+                    \nLet's try again, {name}!")
 
 
 def ask(question):
