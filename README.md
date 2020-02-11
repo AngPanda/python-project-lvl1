@@ -9,3 +9,7 @@ Install:
 Install and run Even and Calc games
 
 <a href="https://asciinema.org/a/oEO2i2qZeKTrD1O1eNbQ3gtPe" target="_blank"><img src="https://asciinema.org/a/oEO2i2qZeKTrD1O1eNbQ3gtPe.svg" /></a>
+
+Run Progression and Prime games
+
+<a href="https://asciinema.org/a/YzvekTqJL5N7DlD2EVebv0nk1" target="_blank"><img src="https://asciinema.org/a/YzvekTqJL5N7DlD2EVebv0nk1.svg" /></a>
