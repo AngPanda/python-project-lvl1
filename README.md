@@ -13,3 +13,7 @@ Install and run Even and Calc games
 Run Progression and Prime games
 
 <a href="https://asciinema.org/a/YzvekTqJL5N7DlD2EVebv0nk1" target="_blank"><img src="https://asciinema.org/a/YzvekTqJL5N7DlD2EVebv0nk1.svg" /></a>
+
+Run Greatest common divisor game
+
+<a href="https://asciinema.org/a/wuz7hli9veqRTIK9VQ4oeU9cK" target="_blank"><img src="https://asciinema.org/a/wuz7hli9veqRTIK9VQ4oeU9cK.svg" /></a>
