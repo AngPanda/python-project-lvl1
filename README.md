@@ -4,4 +4,4 @@
 
 Install and run Brain games
 
-<a href="https://asciinema.org/a/DOkR5J8xju59pysaENT4PL1DM" target="_blank"><img src="https://asciinema.org/a/DOkR5J8xju59pysaENT4PL1DM.svg" /></a>
+<a href="https://asciinema.org/a/oEO2i2qZeKTrD1O1eNbQ3gtPe" target="_blank"><img src="https://asciinema.org/a/oEO2i2qZeKTrD1O1eNbQ3gtPe.svg" /></a>
