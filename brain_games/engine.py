@@ -21,8 +21,7 @@ def run(game):
         question, answer = game.game_round()
         user_answer = ask(question)
         if answer != user_answer:
-            print(f"{user_answer} is wrong answer ;(. "
-                  f"Correct answer was {answer}.")
+            print(f"{user_answer} is wrong answer ;(. Correct answer was {answer}.")
             print(f"Let's try again, {name}!")
             break
         else:
