@@ -33,5 +33,4 @@ def run(game):
 
 def ask(question):
     print(f'Question: {question}')
-    answer = prompt.string('Your answer: ')
-    return answer
+    return prompt.string('Your answer: ')

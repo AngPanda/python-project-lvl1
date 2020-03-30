@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-from brain_games.engine import greeting
+from brain_games.engine import greet
 
 
 def main():
-    greeting()
+    greet()
 
 
 if __name__ == "__main__":
