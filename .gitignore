@@ -1,5 +1,5 @@
 *.egg-info
-.cache
+.cache/
 __pycache__
 dist/
 *.pyc
